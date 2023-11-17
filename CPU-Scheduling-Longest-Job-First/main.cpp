@@ -117,8 +117,6 @@ int main () {
 			
 			// sort the processes 
 			std::swap(process[Rindex],process[CurrentIndex]) ; 
-
-			std::cout << "\n\t\t-------------------\n" ;  
 			
 			Rindex++ ; 
 			complet++ ; 
