@@ -1,4 +1,4 @@
-# Multi-Threads
+# Multi-Threading
 
 I implemented a multi-threaded program (using C++) on Linux that will perform several arithmetic operations in parallel. 
 
