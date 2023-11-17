@@ -1,0 +1,6 @@
+A: (response=0, turnaround=3, delay=0)
+B: (response=1, turnaround=7, delay=1)
+D: (response=3, turnaround=8, delay=3)
+C: (response=10, turnaround=14, delay=10)
+E: (response=10, turnaround=12, delay=10)
+ABDCE
